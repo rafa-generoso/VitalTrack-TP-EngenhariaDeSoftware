@@ -1,4 +1,4 @@
-# 🌱 HealthTrack - Monitor de Hábitos Saudáveis
+# 🌱 VitalTrack - Monitor de Hábitos Saudáveis
 
 ## 📌 Objetivo
 Este projeto tem como objetivo desenvolver uma aplicação de software alinhada ao ODS 3 (Saúde e Bem-Estar), ajudando usuários a monitorar seus hábitos diários.
