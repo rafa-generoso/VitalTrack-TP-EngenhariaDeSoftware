@@ -10,12 +10,12 @@ Muitas pessoas não possuem controle sobre hábitos básicos de saúde, como ing
 Um sistema web com frontend e backend que permite:
 - Registrar hábitos diários
 - Visualizar progresso
-- Receber alertas simples
+- Receber alertas
 
 ## 🛠️ Tecnologias (previstas)
 - Frontend: React
-- Backend: Node.js
-- Banco de dados: MongoDB
+- Backend: C# .NET
+- Banco de dados: SQL Server 
 
 ## 📊 Metodologia
 O projeto será desenvolvido utilizando Scrum, com sprints quinzenais.
